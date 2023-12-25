@@ -1,0 +1,270 @@
+{
+    "menu": [
+        {
+            "name": "Paneer Tikka",
+            "price": 189.0,
+            "category": "veg",
+            "special": false,
+            "code": "PNRT"
+        },
+        {
+            "name": "Chicken Biryani",
+            "price": 249.0,
+            "category": "non-veg",
+            "special": false,
+            "code": "CBI"
+        },
+        {
+            "name": "Masala Dosa",
+            "price": 149.0,
+            "category": "veg",
+            "special": false,
+            "code": "MD"
+        },
+        {
+            "name": "Margherita Pizza",
+            "price": 299.0,
+            "category": "veg",
+            "special": false,
+            "code": "MP"
+        },
+        {
+            "name": "Chole Bhature",
+            "price": 159.0,
+            "category": "veg",
+            "special": false,
+            "code": "CBH"
+        },
+        {
+            "name": "Fish Curry",
+            "price": 249.0,
+            "category": "non-veg",
+            "special": false,
+            "code": "FC"
+        },
+        {
+            "name": "Samosa",
+            "price": 49.0,
+            "category": "veg",
+            "special": false,
+            "code": "SMS"
+        },
+        {
+            "name": "Pasta Alfredo",
+            "price": 279.0,
+            "category": "veg",
+            "special": false,
+            "code": "PA"
+        },
+        {
+            "name": "Rasgulla",
+            "price": 49.0,
+            "category": "sweets",
+            "special": false,
+            "code": "RS"
+        },
+        {
+            "name": "Mutton Rogan Josh",
+            "price": 299.0,
+            "category": "non-veg",
+            "special": false,
+            "code": "MRJ"
+        },
+        {
+            "name": "Veg Pulao",
+            "price": 179.0,
+            "category": "veg",
+            "special": false,
+            "code": "VP"
+        },
+        {
+            "name": "French Fries",
+            "price": 129.0,
+            "category": "veg",
+            "special": false,
+            "code": "FRY"
+        },
+        {
+            "name": "Gulab Jamun",
+            "price": 59.0,
+            "category": "sweets",
+            "special": false,
+            "code": "GJ"
+        },
+        {
+            "name": "Special Paneer Wrap",
+            "price": 219.0,
+            "category": "veg",
+            "special": true,
+            "code": "PNR"
+        },
+        {
+            "name": "Special Chicken Burger",
+            "price": 269.0,
+            "category": "non-veg",
+            "special": true,
+            "code": "CBGR"
+        },
+        {
+            "name": "Special Masala Chai",
+            "price": 99.0,
+            "category": "drinks",
+            "special": true,
+            "code": "CHAI"
+        },
+        {
+            "name": "Special Gajar Halwa",
+            "price": 79.0,
+            "category": "sweets",
+            "special": true,
+            "code": "SGH"
+        },
+        {
+            "name": "Aloo Paratha",
+            "price": 129.0,
+            "category": "veg",
+            "special": false,
+            "code": "AP"
+        },
+        {
+            "name": "Butter Chicken",
+            "price": 279.0,
+            "category": "non-veg",
+            "special": false,
+            "code": "BTRC"
+        },
+        {
+            "name": "Rajma Chawal",
+            "price": 149.0,
+            "category": "veg",
+            "special": false,
+            "code": "RC"
+        },
+        {
+            "name": "Cheeseburger",
+            "price": 259.0,
+            "category": "non-veg",
+            "special": false,
+            "code": "CB"
+        },
+        {
+            "name": "Palak Paneer",
+            "price": 189.0,
+            "category": "veg",
+            "special": false,
+            "code": "PPNR"
+        },
+        {
+            "name": "Egg Fried Rice",
+            "price": 199.0,
+            "category": "non-veg",
+            "special": false,
+            "code": "EFR"
+        },
+        {
+            "name": "Pani Puri",
+            "price": 79.0,
+            "category": "veg",
+            "special": false,
+            "code": "PP"
+        },
+        {
+            "name": "Mango Lassi",
+            "price": 89.0,
+            "category": "drinks",
+            "special": false,
+            "code": "MSI"
+        },
+        {
+            "name": "Gajar Ka Halwa",
+            "price": 119.0,
+            "category": "sweets",
+            "special": false,
+            "code": "NGH"
+        },
+        {
+            "name": "Chicken Korma",
+            "price": 289.0,
+            "category": "non-veg",
+            "special": false,
+            "code": "CK"
+        },
+        {
+            "name": "Mushroom Pizza",
+            "price": 329.0,
+            "category": "veg",
+            "special": false,
+            "code": "MPZ"
+        },
+        {
+            "name": "Rasmalai",
+            "price": 59.0,
+            "category": "sweets",
+            "special": false,
+            "code": "RSM"
+        },
+        {
+            "name": "Special Veg Pulao",
+            "price": 189.0,
+            "category": "veg",
+            "special": true,
+            "code": "SVP"
+        },
+        {
+            "name": "Special Chicken Curry",
+            "price": 319.0,
+            "category": "non-veg",
+            "special": true,
+            "code": "SCC"
+        },
+        {
+            "name": "Special Iced Coffee",
+            "price": 119.0,
+            "category": "drinks",
+            "special": true,
+            "code": "SIC"
+        },
+        {
+            "name": "Special Chocolate Brownie",
+            "price": 99.0,
+            "category": "sweets",
+            "special": true,
+            "code": "SCB"
+        },
+        {
+            "name": "Pepsi",
+            "price": 75.0,
+            "category": "drinks",
+            "special": false,
+            "code": "PPSI"
+        },
+        {
+            "name": "Kaju Katli",
+            "price": 99.0,
+            "category": "sweets",
+            "code": "KK",
+            "special": false
+        },
+        {
+            "name": "Coke",
+            "price": 75.0,
+            "category": "drinks",
+            "code": "COKE",
+            "special": false
+        },
+        {
+            "name": "Special Salad",
+            "price": 49.0,
+            "category": "veg",
+            "code": "SLD",
+            "special": true
+        },
+        {
+            "name": "Water",
+            "price": 30.0,
+            "category": "drinks",
+            "code": "AQUA",
+            "special": false
+        }
+    ]
+}
