@@ -1,0 +1,485 @@
+{
+  "deliveries": [
+    {
+      "name": "Bhaskar",
+      "order_id": "AB01_23-45",
+      "price": 463.0,
+      "order_details": [
+        {
+          "name": "Pepsi",
+          "price": 75.0,
+          "category": "drinks",
+          "special": false,
+          "code": "PPSI"
+        },
+        {
+          "name": "Cheeseburger",
+          "price": 259.0,
+          "category": "non-veg",
+          "special": false,
+          "code": "CB"
+        },
+        {
+          "name": "French Fries",
+          "price": 129.0,
+          "category": "veg",
+          "special": false,
+          "code": "FRY"
+        }
+      ],
+      "address": "45, Mukta, India",
+      "time_of_order": "18/11/2023, Saturday, 00:49"
+    },
+    {
+      "name": "Emma",
+      "order_id": "VC97_19-01",
+      "price": 289.0,
+      "order_details": [
+        {
+          "name": "Chicken Korma",
+          "price": 289.0,
+          "category": "non-veg",
+          "special": false,
+          "code": "CK"
+        }
+      ],
+      "address": "12, Wildwood Avenue, United Arab Emirates",
+      "time_of_order": "19/01/2023, Thursday, 13:43"
+    },
+    {
+      "name": "Samuel",
+      "order_id": "SB80_14-06",
+      "price": 666.0,
+      "order_details": [
+        {
+          "name": "Mutton Rogan Josh",
+          "price": 299.0,
+          "category": "non-veg",
+          "special": false,
+          "code": "MRJ"
+        },
+        {
+          "name": "Special Veg Pulao",
+          "price": 189.0,
+          "category": "veg",
+          "special": true,
+          "code": "SVP"
+        },
+        {
+          "name": "Special Gajar Halwa",
+          "price": 79.0,
+          "category": "sweets",
+          "special": true,
+          "code": "SGH"
+        },
+        {
+          "name": "Special Masala Chai",
+          "price": 99.0,
+          "category": "drinks",
+          "special": true,
+          "code": "CHAI"
+        }
+      ],
+      "address": "68, Hillcrest Road, Finland",
+      "time_of_order": "14/06/2022, Tuesday, 21:26"
+    },
+    {
+      "name": "Yasmine",
+      "order_id": "MH30_11-10",
+      "price": 49.0,
+      "order_details": [
+        {
+          "name": "Samosa",
+          "price": 49.0,
+          "category": "veg",
+          "special": false,
+          "code": "SMS"
+        }
+      ],
+      "address": "22, Eagle Ridge, Austria",
+      "time_of_order": "11/10/2022, Tuesday, 05:56"
+    },
+    {
+      "name": "Katherine",
+      "order_id": "SA12_07-10",
+      "price": 299.0,
+      "order_details": [
+        {
+          "name": "Mutton Rogan Josh",
+          "price": 299.0,
+          "category": "non-veg",
+          "special": false,
+          "code": "MRJ"
+        }
+      ],
+      "address": "13, Riverside Avenue, Greece",
+      "time_of_order": "07/10/2022, Friday, 20:41"
+    },
+    {
+      "name": "Tessa",
+      "order_id": "IN26_17-06",
+      "price": 473.0,
+      "order_details": [
+        {
+          "name": "Rajma Chawal",
+          "price": 149.0,
+          "category": "veg",
+          "special": false,
+          "code": "RC"
+        },
+        {
+          "name": "Fish Curry",
+          "price": 249.0,
+          "category": "non-veg",
+          "special": false,
+          "code": "FC"
+        },
+        {
+          "name": "Coke",
+          "price": 75.0,
+          "category": "drinks",
+          "code": "COKE",
+          "special": false
+        }
+      ],
+      "address": "84, Brookside Drive, Qatar",
+      "time_of_order": "17/06/2023, Saturday, 20:13"
+    },
+    {
+      "name": "Samuel",
+      "order_id": "KC15_03-11",
+      "price": 517.0,
+      "order_details": [
+        {
+          "name": "Egg Fried Rice",
+          "price": 199.0,
+          "category": "non-veg",
+          "special": false,
+          "code": "EFR"
+        },
+        {
+          "name": "Egg Fried Rice",
+          "price": 199.0,
+          "category": "non-veg",
+          "special": false,
+          "code": "EFR"
+        },
+        {
+          "name": "Special Iced Coffee",
+          "price": 119.0,
+          "category": "drinks",
+          "special": true,
+          "code": "SIC"
+        }
+      ],
+      "address": "89, Hillcrest Road, Italy",
+      "time_of_order": "03/11/2022, Thursday, 04:46"
+    },
+    {
+      "name": "Victoria",
+      "order_id": "XH33_25-04",
+      "price": 538.0,
+      "order_details": [
+        {
+          "name": "Cheeseburger",
+          "price": 259.0,
+          "category": "non-veg",
+          "special": false,
+          "code": "CB"
+        },
+        {
+          "name": "Butter Chicken",
+          "price": 279.0,
+          "category": "non-veg",
+          "special": false,
+          "code": "BTRC"
+        }
+      ],
+      "address": "24, Bluebell Lane, Philippines",
+      "time_of_order": "25/04/2022, Monday, 17:53"
+    },
+    {
+      "name": "Ulysses",
+      "order_id": "IB16_02-01",
+      "price": 219.0,
+      "order_details": [
+        {
+          "name": "Special Paneer Wrap",
+          "price": 219.0,
+          "category": "veg",
+          "special": true,
+          "code": "PNR"
+        }
+      ],
+      "address": "6, Silver Springs, Colombia",
+      "time_of_order": "02/01/2022, Sunday, 10:47"
+    },
+    {
+      "name": "Ivy",
+      "order_id": "RZ55_06-05",
+      "price": 249.0,
+      "order_details": [
+        {
+          "name": "Fish Curry",
+          "price": 249.0,
+          "category": "non-veg",
+          "special": false,
+          "code": "FC"
+        }
+      ],
+      "address": "43, Greenwood Terrace, Colombia",
+      "time_of_order": "06/05/2023, Saturday, 13:11"
+    },
+    {
+      "name": "Ivy",
+      "order_id": "SN68_12-03",
+      "price": 299.0,
+      "order_details": [
+        {
+          "name": "Margherita Pizza",
+          "price": 299.0,
+          "category": "veg",
+          "special": false,
+          "code": "MP"
+        }
+      ],
+      "address": "39, Birch Avenue, USA",
+      "time_of_order": "12/03/2023, Sunday, 01:45"
+    },
+    {
+      "name": "Rachel",
+      "order_id": "YH97_27-12",
+      "price": 289.0,
+      "order_details": [
+        {
+          "name": "Chicken Korma",
+          "price": 289.0,
+          "category": "non-veg",
+          "special": false,
+          "code": "CK"
+        }
+      ],
+      "address": "21, Forest Hills, Brazil",
+      "time_of_order": "27/12/2022, Tuesday, 09:00"
+    },
+    {
+      "name": "Nathan",
+      "order_id": "LK70_03-01",
+      "price": 199.0,
+      "order_details": [
+        {
+          "name": "Egg Fried Rice",
+          "price": 199.0,
+          "category": "non-veg",
+          "special": false,
+          "code": "EFR"
+        }
+      ],
+      "address": "55, Royal Gardens, South Africa",
+      "time_of_order": "03/01/2022, Monday, 11:23"
+    },
+    {
+      "name": "Madison",
+      "order_id": "CF88_26-02",
+      "price": 367.0,
+      "order_details": [
+        {
+          "name": "Gajar Ka Halwa",
+          "price": 119.0,
+          "category": "sweets",
+          "special": false,
+          "code": "NGH"
+        },
+        {
+          "name": "Palak Paneer",
+          "price": 189.0,
+          "category": "veg",
+          "special": false,
+          "code": "PPNR"
+        },
+        {
+          "name": "Gulab Jamun",
+          "price": 59.0,
+          "category": "sweets",
+          "special": false,
+          "code": "GJ"
+        }
+      ],
+      "address": "95, Ocean Drive, Norway",
+      "time_of_order": "26/02/2023, Sunday, 20:21"
+    },
+    {
+      "name": "Eva",
+      "order_id": "RR46_25-06",
+      "price": 568.0,
+      "order_details": [
+        {
+          "name": "Mutton Rogan Josh",
+          "price": 299.0,
+          "category": "non-veg",
+          "special": false,
+          "code": "MRJ"
+        },
+        {
+          "name": "Special Chicken Burger",
+          "price": 269.0,
+          "category": "non-veg",
+          "special": true,
+          "code": "CBGR"
+        }
+      ],
+      "address": "25, Ocean Drive, South Korea",
+      "time_of_order": "25/06/2022, Saturday, 06:28"
+    },
+    {
+      "name": "Rachel",
+      "order_id": "ZN74_27-05",
+      "price": 656.0,
+      "order_details": [
+        {
+          "name": "Rasgulla",
+          "price": 49.0,
+          "category": "sweets",
+          "special": false,
+          "code": "RS"
+        },
+        {
+          "name": "Mushroom Pizza",
+          "price": 329.0,
+          "category": "veg",
+          "special": false,
+          "code": "MPZ"
+        },
+        {
+          "name": "Special Paneer Wrap",
+          "price": 219.0,
+          "category": "veg",
+          "special": true,
+          "code": "PNR"
+        },
+        {
+          "name": "Rasmalai",
+          "price": 59.0,
+          "category": "sweets",
+          "special": false,
+          "code": "RSM"
+        }
+      ],
+      "address": "59, Ivy Court, Italy",
+      "time_of_order": "27/05/2023, Saturday, 18:54"
+    },
+    {
+      "name": "Jack",
+      "order_id": "JJ93_19-03",
+      "price": 477.0,
+      "order_details": [
+        {
+          "name": "Special Gajar Halwa",
+          "price": 79.0,
+          "category": "sweets",
+          "special": true,
+          "code": "SGH"
+        },
+        {
+          "name": "Aloo Paratha",
+          "price": 129.0,
+          "category": "veg",
+          "special": false,
+          "code": "AP"
+        },
+        {
+          "name": "Special Chicken Burger",
+          "price": 269.0,
+          "category": "non-veg",
+          "special": true,
+          "code": "CBGR"
+        }
+      ],
+      "address": "1, Royal Gardens, Australia",
+      "time_of_order": "19/03/2023, Sunday, 12:40"
+    },
+    {
+      "name": "Yasmine",
+      "order_id": "KI76_26-09",
+      "price": 647.0,
+      "order_details": [
+        {
+          "name": "Chicken Biryani",
+          "price": 249.0,
+          "category": "non-veg",
+          "special": false,
+          "code": "CBI"
+        },
+        {
+          "name": "Pasta Alfredo",
+          "price": 279.0,
+          "category": "veg",
+          "special": false,
+          "code": "PA"
+        },
+        {
+          "name": "Gajar Ka Halwa",
+          "price": 119.0,
+          "category": "sweets",
+          "special": false,
+          "code": "NGH"
+        }
+      ],
+      "address": "72, Lakeside Avenue, Turkey",
+      "time_of_order": "26/09/2022, Monday, 11:04"
+    },
+    {
+      "name": "Olivia",
+      "order_id": "MG65_15-06",
+      "price": 446.0,
+      "order_details": [
+        {
+          "name": "Rajma Chawal",
+          "price": 149.0,
+          "category": "veg",
+          "special": false,
+          "code": "RC"
+        },
+        {
+          "name": "Special Salad",
+          "price": 49.0,
+          "category": "veg",
+          "code": "SLD",
+          "special": true
+        },
+        {
+          "name": "Egg Fried Rice",
+          "price": 199.0,
+          "category": "non-veg",
+          "special": false,
+          "code": "EFR"
+        },
+        {
+          "name": "Samosa",
+          "price": 49.0,
+          "category": "veg",
+          "special": false,
+          "code": "SMS"
+        }
+      ],
+      "address": "22, Whispering Pines, Jordan",
+      "time_of_order": "15/06/2022, Wednesday, 00:20"
+    },
+    {
+      "name": "Nathan",
+      "order_id": "KW04_24-03",
+      "price": 49.0,
+      "order_details": [
+        {
+          "name": "Samosa",
+          "price": 49.0,
+          "category": "veg",
+          "special": false,
+          "code": "SMS"
+        }
+      ],
+      "address": "83, Lakeside Avenue, Belgium",
+      "time_of_order": "24/03/2022, Thursday, 15:53"
+    }
+  ]
+}
